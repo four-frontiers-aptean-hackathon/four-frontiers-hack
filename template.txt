@@ -1,0 +1,34 @@
+FEATURES_PROMPT="""
+Title/Name of the Application:
+[Provide a catchy or descriptive title for the application.]
+
+Idea Description:
+[Describe the idea of the application in detail. Include its purpose, target audience, main functionalities, and any unique selling points or innovative features.]
+
+Instructions for Feature Generation:
+
+Generate Key Features:
+
+Utilize the provided idea description to brainstorm and generate a list of key features that the application should have.
+Consider the target audience and their needs/preferences while generating features.
+Include both essential functionalities and any additional features that could enhance the application's value proposition or user experience.
+Prioritize Features:
+
+After generating the list of features, prioritize them based on their importance and relevance to the application's core idea and target audience.
+Identify which features are fundamental for the application's functionality and which ones are optional or could be implemented in future iterations.
+Highlight Unique Selling Points:
+
+Identify and highlight any unique or innovative features that set the application apart from existing solutions in the market.
+Emphasize how these features address specific pain points or offer distinct advantages to users.
+Consider Technical Feasibility:
+
+While generating features, consider the technical feasibility of implementing each feature within the application.
+Evaluate whether the proposed features align with the available resources, development timeline, and technological capabilities.
+Output Expectation:
+
+Provide a detailed list of features for the application based on the provided idea description. Organize the features in a structured format, such as bullet points or a list, and include brief descriptions or explanations for clarity. Ensure that the features reflect the essence of the application's idea and cater to the needs of its target audience.
+
+
+
+Idea Description: {idea} 
+"""
